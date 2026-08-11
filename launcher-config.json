@@ -1,6 +1,6 @@
 {
   "_comment": "새싹마을 런처가 실행할 때마다 읽는 최신 모드팩 정보. 여기만 고치면 플레이어 런처가 자동으로 따라온다. 런처를 다시 배포할 필요 없음.",
-  "packVersion": "1.2.0",
-  "packUrl": "saessak-pack-1.2.0.zip",
-  "packSha256": "E2FF2D874CDECD0BD5C6D84E9C61E66DE4B28C71F8F17BFF1E30D0BF287EA7A6"
+  "packVersion": "1.3.0",
+  "packUrl": "https://drive.usercontent.google.com/download?id=1eHIFLecxm8gmUEMFaVxCQdSOgKiOdUko&export=download&confirm=t",
+  "packSha256": "9F5ED6B432DB420E8F2B2D862FD2632DB2346ED5319E2E8FBD3FA09111CEBF02"
 }
