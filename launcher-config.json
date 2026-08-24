@@ -1,7 +1,7 @@
 {
   "_comment": "새싹마을 런처가 실행할 때마다 읽는 최신 모드팩 정보. 여기만 고치면 플레이어 런처가 자동으로 따라온다. 런처를 다시 배포할 필요 없음.",
   "_배포처": "구글 드라이브는 쓰지 않는다. 100MB 넘는 파일은 바이러스 검사 경고 HTML 을 돌려주고, 일일 다운로드 할당량에 걸리면 파일 대신 'Quota exceeded' 페이지가 내려온다. 런처는 인증 없이 요청 한 번을 보내고 받은 내용을 그대로 저장하므로, 배포처는 원본 바이트를 그대로 주는 공개 저장소의 Releases 여야 한다.",
-  "packVersion": "1.4.3",
-  "packUrl": "https://github.com/ymh0951/saessak-pack/releases/download/v1.4.3/saessak-pack-1.4.3.zip",
-  "packSha256": "3FA4DCA2366306FC01217C817F8FD574B7D95F6F8D96696F912635316314D45B"
+  "packVersion": "1.4.5",
+  "packUrl": "https://github.com/ymh0951/saessak-pack/releases/download/v1.4.5/saessak-pack-1.4.5.zip",
+  "packSha256": "2195FB4F707B6A3990A18EEEEB2F9B6B49FB07D744050641B4F65A9372015094"
 }
