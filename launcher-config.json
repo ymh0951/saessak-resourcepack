@@ -1,8 +1,7 @@
 {
-  "_comment": "새싹마을 런처가 실행할 때마다 읽는 최신 모드팩 정보. 여기만 고치면 플레이어 런처가 자동으로 따라온다. 런처를 다시 배포할 필요 없음.",
-  "_배포처": "구글 드라이브는 쓰지 않는다. 100MB 넘는 파일은 바이러스 검사 경고 HTML 을 돌려주고, 일일 다운로드 할당량에 걸리면 파일 대신 'Quota exceeded' 페이지가 내려온다. 런처는 인증 없이 요청 한 번을 보내고 받은 내용을 그대로 저장하므로, 배포처는 원본 바이트를 그대로 주는 공개 저장소의 Releases 여야 한다.",
-  "_캐시주의": "raw.githubusercontent 는 이 파일을 5분(max-age=300) 캐시한다. 고친 뒤 곧바로 raw 로 확인하면 옛 값이 나온다. 런처를 켜라고 안내하기 전에 raw 가 새 값을 돌려주는지 반드시 확인할 것.",
-  "packVersion": "1.5.0",
-  "packUrl": "https://github.com/ymh0951/saessak-pack/releases/download/v1.5.0/saessak-pack-1.5.0.zip",
-  "packSha256": "046EF17E4F7B9BF8E43ECE8230B7132D79FF97A97CEB2D3ED61847518D97E725"
+  "_comment": "새싹마을 런처가 실행할 때마다 읽는 최신 모드팩 정보. 여기만 고치면 플레이어 런처가 자동으로 따라온다.",
+  "_캐시주의": "raw.githubusercontent 는 이 파일을 5분(max-age=300) 캐시한다. 고친 뒤 raw 가 새 값을 돌려주는지 확인하고 나서 런처를 켜라고 안내할 것.",
+  "packVersion": "1.5.1",
+  "packUrl": "https://github.com/ymh0951/saessak-pack/releases/download/v1.5.1/saessak-pack-1.5.1.zip",
+  "packSha256": "E0B110BF36B57AF3CA9E84097E8BA10E280D13308CE375A90F1871640EECD308"
 }
